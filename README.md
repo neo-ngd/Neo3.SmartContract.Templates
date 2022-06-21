@@ -2,7 +2,7 @@
 
 ## Dependency
 
-Require [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0).
+Require [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0).
  
 ## Install
 `
