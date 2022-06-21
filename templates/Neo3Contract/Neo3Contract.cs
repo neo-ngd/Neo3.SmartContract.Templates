@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 using Neo.SmartContract.Framework;
-
+using Neo.SmartContract.Framework.Attributes;
 
 namespace Neo3Contract
 {
