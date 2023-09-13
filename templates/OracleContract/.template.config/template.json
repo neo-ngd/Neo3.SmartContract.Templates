@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Me",
+    "classifications": [
+        "Neo3",
+        "Smart Contract"
+    ],
+    "identity": "NeoContractTemplate.Oracle",
+    "name": "Neo3 Contract Template: oracle project",
+    "shortName": "oracle",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "OracleContract"
+}

@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <PackageType>Template</PackageType>
-        <PackageVersion>1.8.0</PackageVersion>
+        <PackageVersion>2.0.0</PackageVersion>
         <PackageId>Neo3.SmartContract.Templates</PackageId>
         <Title>Neo3 Smart Contract Templates</Title>
         <Authors>NGD</Authors>
